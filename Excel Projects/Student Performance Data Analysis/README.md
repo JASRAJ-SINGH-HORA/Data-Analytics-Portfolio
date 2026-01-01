@@ -32,12 +32,11 @@ Visual learners demonstrated higher retention and performance in End Semester ex
 
 **Dashboard**
 
-!\[Dashboard Screenshot](screenshots/dashboard\_full.png)
+<img width="1865" height="691" alt="dashboard_full" src="https://github.com/user-attachments/assets/f22acdf4-5845-4940-abbb-2fa02e5d870a" />
 
 
 
 **Technical Methodology**
-
 
 
 **1. Data Cleaning \& ETL**
@@ -91,4 +90,5 @@ Pass = 1
 2.Open in Excel.
 
 3.Use the "Family Income" or "Travel Time" slicers to filter the population and observe how the KPIs change dynamically.
+
 
