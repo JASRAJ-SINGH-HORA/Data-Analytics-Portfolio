@@ -30,7 +30,7 @@ Identified that "Delivery Truck" mode lags in volume compared to air transport, 
 
 **Dashboard**
 
-!\[Dashboard Screenshot](screenshots/dashboard\_full.png)
+<img width="1863" height="696" alt="dashboard_full" src="https://github.com/user-attachments/assets/01d616e6-fe3b-43f5-b082-721dfb38118a" />
 
 
 
@@ -83,4 +83,5 @@ Used a combo chart to overlay "Free Shipping" volume against Total Sales by Ship
 2.Open in Excel (2016 or later recommended).
 
 3.Use the Slicers on the left panel to filter the data.
+
 
