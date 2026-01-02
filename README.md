@@ -1,4 +1,3 @@
-[Data Analytics Portfolio.md](https://github.com/user-attachments/files/24408771/Data.Analytics.Portfolio.md)
 **Data Analytics Portfolio**
 
 **JASRAJ SINGH HORA**
