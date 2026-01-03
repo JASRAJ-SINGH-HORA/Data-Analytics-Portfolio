@@ -168,7 +168,7 @@ Insight: Provides a **snapshot** **of volume and scale**, allowing stakeholders 
 
 **2.Trends and Seasonality**
 
-!\[Page 2](Aviation Data Analysis/screenshots/2.png)
+!\[Page 2](Aviation_Data_Analysis/screenshots/2.png)
 
 
 
@@ -241,6 +241,7 @@ Aviation Network Analysis
 └── Screenshots 			        		 # Screenshots of the Power BI Dashboard     
 
 &nbsp;
+
 
 
 
