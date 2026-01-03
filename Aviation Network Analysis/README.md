@@ -150,7 +150,7 @@ Identifies markets with high gravity but low current traffic (Under-served Marke
 
 **1.Aviation Data Analysis Report**
 
-!\[Page 1](Screenshots/1.png)
+!\[Page 1](screenshots/1.png)
 
 
 
@@ -168,7 +168,7 @@ Insight: Provides a **snapshot** **of volume and scale**, allowing stakeholders 
 
 **2.Trends and Seasonality**
 
-!\[Page 2](Screenshots/2.png)
+!\[Page 2](screenshots/2.png)
 
 
 
@@ -186,7 +186,7 @@ Insight: Identifies **seasonal spikes** (e.g., Holiday demand) and low-traffic p
 
 **3.Seat Utilization and Efficiency**
 
-!\[Page 3](Screenshots/3.png)
+!\[Page 3](screenshots/3.png)
 
 
 
@@ -204,7 +204,7 @@ Insight: Highlights **inefficiency gaps** where aircraft are flying with too man
 
 **4.Network Analysis**
 
-!\[Page 4](Screenshots/4.png)
+!\[Page 4](screenshots/4.png)
 
 
 
@@ -241,4 +241,5 @@ Aviation Network Analysis
 └── Screenshots 			        		 # Screenshots of the Power BI Dashboard     
 
 &nbsp;
+
 
