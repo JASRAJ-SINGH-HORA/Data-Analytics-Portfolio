@@ -96,7 +96,7 @@ The SQL insights were translated into a 2-page interactive dashboard.
 
 Focus: Speed, Bottlenecks, and Funnel Health.
 
-!\[Process Overview Dashboard](screenshots/Process_Overview.png)
+!\[Process Overview Dashboard](https://github.com/JASRAJ-SINGH-HORA/Data-Analytics-Portfolio/blob/c454e5fe6863c50ad4c2801c37884b2fff1eb149/GoodSpace%20AI-%20HR%20Analytics/screenshots/Process_Overview.png)
 
 &nbsp;KPIs: Tracks Speed (10.7h), Claim Compliance (84%), and Drop-off Rates.
 
@@ -112,7 +112,7 @@ Focus: Speed, Bottlenecks, and Funnel Health.
 
 Focus: Bias Detection and Sourcing Strategy.
 
-!\[Quality and Strategic Analysis Dashboard](screenshots/Quality_and_Strategic_Analysis.png)
+!\[Quality and Strategic Analysis Dashboard](https://github.com/JASRAJ-SINGH-HORA/Data-Analytics-Portfolio/blob/c454e5fe6863c50ad4c2801c37884b2fff1eb149/GoodSpace%20AI-%20HR%20Analytics/screenshots/Quality_and_Strategic_Analysis.png)
 
 &nbsp;The Trust Gap: Scatter plot reveals a flat correlation between AI Score and Recruiter Selection, proving bias.
 
@@ -135,6 +135,7 @@ Folder Structure
 ├── HR\_Analytics\_Dashboard.pbix          
 
 └── README.md
+
 
 
 
