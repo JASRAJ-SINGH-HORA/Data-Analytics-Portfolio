@@ -96,7 +96,7 @@ The SQL insights were translated into a 2-page interactive dashboard.
 
 Focus: Speed, Bottlenecks, and Funnel Health.
 
-!\[Process Overview Dashboard](Process Overview.png)
+!\[Process Overview Dashboard](screenshots/Process Overview.png)
 
 &nbsp;KPIs: Tracks Speed (10.7h), Claim Compliance (84%), and Drop-off Rates.
 
@@ -112,7 +112,7 @@ Focus: Speed, Bottlenecks, and Funnel Health.
 
 Focus: Bias Detection and Sourcing Strategy.
 
-!\[Quality and Strategic Analysis Dashboard]((screenshots/Quality and Strategic Analysis.png)
+!\[Quality and Strategic Analysis Dashboard](screenshots/Quality and Strategic Analysis.png)
 
 &nbsp;The Trust Gap: Scatter plot reveals a flat correlation between AI Score and Recruiter Selection, proving bias.
 
@@ -135,5 +135,6 @@ Folder Structure
 ├── HR\_Analytics\_Dashboard.pbix          
 
 └── README.md
+
 
 
